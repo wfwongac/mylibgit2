@@ -1,0 +1,69 @@
+/**********************************************************************
+ *  readme.txt template                                                   
+ **********************************************************************/
+
+Name:  Wong Wai Fun     
+Nickname or English name: Helen
+Course:  LA1A
+Email address: wfwongac@ust.hk
+Programming assignment #:	PA1
+OS: 
+Compiler:  eclipse
+Hours spent:  about 40 hours    
+
+
+/**********************************************************************
+ *  List whatever help (if any) that you received.
+ **********************************************************************/
+I have sought help from the following people:	Huang, Ya (student ID: 20206959)
+I have read the following books:
+I have consulted the following websites: Cplusplus.com, stackoverflow.com(some posts)
+(if the addresses are required, please reply me by email)
+
+The work included in this program is all my own work (Y/N): N
+
+
+/**********************************************************************
+ *  Explain your overall approach and the unique features of your program
+ **********************************************************************/
+This program is bus route system which can assign information from some
+ .txt files and create a bus route with a given route number,
+and a pointer, start, pointing to linked objects, the stop_node. 
+This program is able to print out the information of bus route and stop nodes,
+calculate the direct and path distance between first and last nodes, 
+insert new stop node with the shortest distances to previous and next nodes.
+It also have the delete nodes function, and it can reverse the order between
+ 2 given stop nodes or reverse the order of the whole list.
+
+
+/**********************************************************************
+ *  Describe any serious problems your program has, or anything which
+ *  you have not implemented successfully
+ **********************************************************************/
+The most serious problem is the reverse function is too difficult to complete.
+
+/**********************************************************************
+ *  State the input files you used to test your program
+ **********************************************************************/
+input1.txt
+input2.txt
+
+
+/**********************************************************************
+ *  Known bugs / limitations of the program
+ **********************************************************************/
+
+
+
+/**********************************************************************
+ *  List any other comments here. Feel free to provide any feedback   
+ *  on how much you learned from doing the assignment, whether    
+ *  you like the assignment or not, and how the assignment may be
+ *  improved 
+ **********************************************************************/
+To more familiar with the applications of pointers, like doubly linked list.
+To study how to fix the bug and how to solve the bugs.
+To understand how to open file and assign information to an object.
+
+I like the assignment as it is a good tool and method to let me understand 
+how to use my knowlegde and how to exert it in the assignment.

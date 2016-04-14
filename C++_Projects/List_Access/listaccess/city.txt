@@ -1,0 +1,12 @@
+11
+Beijing
+HongKong
+Paris
+NewYork
+Sydney
+London
+Athens
+Rome
+Moscow
+Hamburg
+SaoPaulo

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">helloFriend</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_message">ShowMessage</string>
+
+    <string-array name="Friends">
+        <item> John </item>
+        <item> Paul </item>
+        <item> George </item>
+        <item> Ringo </item>
+    </string-array>
+</resources>
